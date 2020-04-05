@@ -1,4 +1,4 @@
-# Deep Learning Specialization
+# Tensorflow in Practice Specialization
 Instructor: Laurence Moroney  
 
 ## Courses (continually updating)
